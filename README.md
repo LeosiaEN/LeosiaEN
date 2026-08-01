@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Eren Özdemir 👋</h1>
-<h3 align="center">Software Developer & MIS Graduate 🚀</h3>
+<h1 align="center">Hi there, I'm Eren Özdemir </h1>
+<h3 align="center">Software Developer & MIS Graduate </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eren-%C3%B6zdemir-b8b080237">
