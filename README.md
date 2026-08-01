@@ -52,12 +52,16 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeosiaEN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Eren's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeosiaEN&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeosiaEN&theme=tokyonight" width="48%" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeosiaEN&theme=tokyonight" width="48%" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeosiaEN&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=LeosiaEN&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeosiaEN&theme=tokyonight&hide_border=true" width="97%" alt="Activity Graph" />
 </p>
 
 <br/>
