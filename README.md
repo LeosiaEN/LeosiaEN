@@ -49,15 +49,11 @@
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity & Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeosiaEN&theme=tokyonight" width="48%" alt="GitHub Profile Summary" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeosiaEN&theme=tokyonight" width="48%" alt="Most Commit Language" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=LeosiaEN&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
