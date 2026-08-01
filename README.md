@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Eren Özdemir 👋</h1>
-<h3 align="center">Software Developer & Recent Graduate 🚀</h3>
+<h3 align="center">Software Developer & MIS Graduate 🚀</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eren-%C3%B6zdemir-b8b080237">
@@ -16,7 +16,7 @@
 
 ## 📌 About Me
 
-- 🎓 **Status:** Computer Science / Software Engineering Graduate.
+- 🎓 **Status:** Management Information Systems (Yönetim Bilişim Sistemleri) Graduate.
 - 💻 **Passion:** Building scalable software, modern web applications, and robust backend systems.
 - 🎯 **Goals:** Actively seeking software engineering opportunities and contributing to impactful open-source projects.
 - ⚡ **Focus:** Clean code principles, modern system architectures, and continuous self-improvement.
